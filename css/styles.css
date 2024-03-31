@@ -42,6 +42,7 @@ img {
 .sectoin {
     margin: 0;
     margin-bottom: 0;
+    padding: 120px 0;
 }
 
 /* Header */
@@ -201,8 +202,7 @@ img {
     display: flex;
     flex-direction: row;
     gap: 24px;
-    padding-top: 120px;
-    padding-bottom: 120px;
+    
 }
 
 .visually-hidden {
@@ -261,7 +261,6 @@ img {
 .our-team-list {
     display: flex;
     gap: 24px;
-    
 }
 
 
@@ -358,11 +357,9 @@ img {
 
 .footer {
     background: #2E2F42;
+padding: 100px 0;
+}
 
-}
-.footer-section {
-    padding: 100px 0;
-}
 .footer-logo {
 padding: 0 149px 0 0;
 display: inline-block;

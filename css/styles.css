@@ -66,9 +66,6 @@ img {
 .nav-list {
     display: flex;
     gap: 40px;
-    padding-left: 76px;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .logo {
@@ -119,7 +116,7 @@ img {
     display: flex;
     gap: 40px;
     margin-left: auto;
-    padding: 24px 0 24px;
+    
 }
 
 .contacts-list {
@@ -271,7 +268,6 @@ img {
     rgba(46, 47, 66, 0.08), 0 1px 1px 0 
     rgba(46, 47, 66, 0.16), 0 1px 6px 0
     rgba(46, 47, 66, 0.08);
-    
 }
 
 .our-team-image {
@@ -280,8 +276,6 @@ img {
 
 .card-content-team {
     padding: 32px 0;
-    
-    
 }
 .our-team-title {
     font-weight: 500;
@@ -290,7 +284,7 @@ img {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
-    margin: 0 3px 8px 3px;
+    margin: 0 0 8px 0;
 }
 
 .our-team-text {
@@ -299,7 +293,6 @@ img {
     line-height: 150%;
     letter-spacing: 0.02em;
     text-align: center;
-    margin: 0 3px;
 }
 
 /* Section 3 */
@@ -339,7 +332,6 @@ img {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    margin-bottom: 8px;
 }
 
 .portfolio-text {
@@ -360,9 +352,9 @@ padding: 100px 0;
 }
 
 .footer-logo {
-padding: 0 149px 0 0;
 display: inline-block;
-margin-bottom: 16px;
+padding: 0;
+margin-right: 0;
 }
 
 .logo-studio-footer {
